@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 92da62a5a3aa7c6d401217d43ec93aa1842d6e29
 # Machine Learning Bootcamp Homework
 
 Welcome to the homework repository for the Machine Learning Bootcamp.
@@ -26,4 +30,7 @@ Welcome to the homework repository for the Machine Learning Bootcamp.
 
 ---
 *Happy Learning!*
+<<<<<<< HEAD
 
+=======
+>>>>>>> 92da62a5a3aa7c6d401217d43ec93aa1842d6e29
