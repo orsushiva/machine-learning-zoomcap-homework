@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Machine Learning Bootcamp Homework
 
 Welcome to the homework repository for the Machine Learning Bootcamp.
@@ -26,3 +27,6 @@ Welcome to the homework repository for the Machine Learning Bootcamp.
 
 ---
 *Happy Learning!*
+=======
+Machine Learning Zoomcamp homework
+>>>>>>> 711d9bca57954fcb46f4e9a9723fe9b24c0463ab
